@@ -21,4 +21,3 @@ I am passionate about the development of digital tools which led me to delve dee
 <img align="left" alt="Spring" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
 <img align="left" alt="Nodejs" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 
----
