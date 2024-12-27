@@ -2,7 +2,7 @@
 
 **`Student(Developer/Designer)`**
 
-I am passionate about the development of digital tools which led me to delve deeper into this world. I am currently in the 6th semester and all the repositories that are public are projects or required by the different subjects or of a personal nature 🌟
+I am passionate about the development of digital tools which led me to delve deeper into this world. I am currently in the 6th semester and all the repositories that are public are projects required by the different subjects or of a personal nature 🌟
 
 ---
 
